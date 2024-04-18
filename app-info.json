@@ -1,9 +1,15 @@
 {
-"iOS": "1.24.0",
-"android": "1.24.0",
+"iOS": "1.40.0",
+"android": "1.40.0",
+"update": {
+  "msg": "Please update your app to the latest version to continue using it.",
+  "title": "Important app update",
+   "btn": "Download",
+},
 "maintenance": {
   "enabled": false,
-  "msg": "We are currently improving your app experience. Please try again later...",
-  "msg_ar": "نحن نعمل حاليًا على تحسين تجربة تطبيقك. يرجى المحاولة مرة أخرى لاحقًا..."
+  "btn": "",
+  "msg": "Sorry for the inconvenience, but we're currently updating the app to improve your experience. Please check back again in 8 hours. We appreciate your patience and understanding.",
+  "title": "App Maintenance"
   }
 }
