@@ -4,7 +4,7 @@
 "update": {
   "msg": "Please update your app to the latest version to continue using it.",
   "title": "Important app update",
-   "btn": "Download",
+   "btn": "Download"
 },
 "maintenance": {
   "enabled": false,
