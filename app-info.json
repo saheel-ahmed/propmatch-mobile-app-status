@@ -7,9 +7,9 @@
    "btn": "Download"
 },
 "maintenance": {
-  "enabled": false,
+  "enabled": true,
   "btn": "",
-  "msg": "Sorry for the inconvenience, but we're currently updating the app to improve your experience. Please check back again in 8 hours. We appreciate your patience and understanding.",
+  "msg": "Sorry for the inconvenience, but we're currently updating the app to improve your experience. Please check back again in sometime. We appreciate your patience and understanding.",
   "title": "App Maintenance"
   }
 }
