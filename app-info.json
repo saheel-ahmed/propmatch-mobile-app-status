@@ -1,8 +1,8 @@
 {
-"iOS": "2.01.03",
-"android": "2.01.03",
+"iOS": "3.00.00",
+"android": "3.00.00",
 "update": {
-  "msg": "Please update your app to the latest version to continue using it.",
+  "msg": "A new version of the app is available with an improved experience. Please update to continue using the latest features.",
   "title": "Important app update",
    "btn": "Download"
 },
