@@ -1,1 +1,91 @@
-
+{
+  tenantTags: [
+        { id: 0, name: 'For Family' },
+        { id: 1, name: 'Exclusive Client' },
+        { id: 2, name: 'Ready to move-in' },
+        { id: 3, name: 'Flexible in payment' },
+        { id: 4, name: 'Commission 50/50' },
+        { id: 5, name: 'Listing agent should be covered' },
+      ],
+    buyerTags: [
+        { id: 0, name: 'Exclusive buyer' },
+        { id: 1, name: 'Ready to move' },
+        { id: 2, name: 'Viewing is a must' },
+        { id: 3, name: 'Commission 50/50' },
+        { id: 4, name: 'Listing agent should be covered' },
+      ],
+    rentalTags: [
+        { id: 0, name: 'Vacant' },
+        { id: 1, name: 'Exclusive' },
+        { id: 2, name: 'Managed property' },
+        { id: 3, name: 'Payments is negotiable' },
+        { id: 4, name: 'Commission 50/50' },
+        { id: 5, name: 'Keep your Commission (No-Commission)' },
+        { id: 6, name: 'I am covered from landlord' },
+      ],
+    salesTags: [
+        { id: 0, name: 'Vacant' },
+        { id: 1, name: 'Exclusive' },
+        { id: 2, name: 'Motivated seller' },
+        { id: 4, name: 'Commission 50/50' },
+        { id: 5, name: 'Keep your Commission (No-Commission)' },
+        { id: 6, name: 'I am covered in the price' },
+      ],
+    cheques: [
+        { id: 0, name: 'Any', status: 'active' },
+        { id: 1, name: '1', status: 'active' },
+        { id: 2, name: '2', status: 'active' },
+        { id: 3, name: '3', status: 'active' },
+        { id: 4, name: '4', status: 'active' },
+        { id: 5, name: '6', status: 'active' },
+        { id: 6, name: '12', status: 'active' },
+      ],
+    bedroooms: [
+        { id: 0, name: 'Studio', selected: false, status: 'active' },
+        { id: 1, name: '1', selected: false, status: 'active' },
+        { id: 2, name: '2', selected: false, status: 'active' },
+        { id: 3, name: '3', selected: false, status: 'active' },
+        { id: 4, name: '4', selected: false, status: 'active' },
+        { id: 5, name: '5', selected: false, status: 'active' },
+        { id: 6, name: '6', selected: false, status: 'active' },
+        { id: 7, name: '7', selected: false, status: 'active' },
+        { id: 8, name: '8', selected: false, status: 'active' },
+      ],
+    furniture: [
+        { id: 0, name: 'Any', status: 'active', icon: 'ic-semi-furnished-' },
+        { id: 1, name: 'Furnished', status: 'active', icon: 'ic-furnished-' },
+        { id: 3, name: 'Unfurnished', status: 'active', icon: 'ic-unfurnished-' },
+      ],
+    bathroom: [
+        { id: 0, name: 'Any', status: 'active' },
+        { id: 1, name: '1', status: 'active' },
+        { id: 2, name: '2', status: 'active' },
+        { id: 3, name: '3', status: 'active' },
+        { id: 4, name: '4', status: 'active' },
+        { id: 5, name: '5', status: 'active' },
+        { id: 6, name: '6', status: 'active' },
+      ],
+    rentYearRangeArray: [
+    20000, 30000, 40000, 50000, 60000, 80000, 100000, 120000, 140000, 160000,
+    180000, 200000, 225000, 250000, 275000, 300000, 325000, 350000, 375000,
+    400000, 425000, 450000, 475000, 500000, 550000, 600000, 650000, 700000,
+    750000, 800000, 850000, 900000, 1000000, 1200000, 1400000, 1600000, 1800000,
+    2000000, 2250000, 2500000, 2750000, 3000000, 3250000, 3500000, 3750000,
+    4000000, 4250000, 4500000, 4750000, 5000000, 5500000, 6000000,
+  ];
+  rangeBuyArray: [
+    200000, 250000, 300000, 350000, 400000, 450000, 500000, 550000, 600000,
+    650000, 700000, 800000, 900000, 1000000, 1200000, 1400000, 1600000, 1800000,
+    2000000, 2200000, 2400000, 2600000, 2800000, 3000000, 3250000, 3500000,
+    3750000, 4000000, 4500000, 5000000, 5500000, 6000000, 6500000, 7000000,
+    7500000, 8000000, 8500000, 9000000, 9500000, 10000000, 12500000, 15000000,
+    20000000, 25000000, 30000000, 40000000, 50000000, 60000000, 70000000,
+    80000000, 90000000, 100000000,
+  ];
+  rangeSizeArray: [
+    300, 400, 600, 800, 1000, 1200, 1400, 1600, 1800, 2000, 2200, 2400, 2600,
+    2800, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500, 7000, 7500, 8000,
+    8500, 9000, 9500, 10000, 12000, 14000, 16000, 18000, 20000, 25000, 30000,
+    35000, 40000, 45000, 50000, 55000, 60000, 65000, 70000,
+  ]
+}
