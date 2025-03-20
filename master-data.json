@@ -65,11 +65,56 @@
     { "id": 5, "name": "5", "status": "active" },
     { "id": 6, "name": "6", "status": "active" }
   ],
+  "moveIn":[
+     { "id": 1, "name": "1 Week", "status": "active" },
+    { "id": 2, "name": "2 Week", "status": "active" },
+    { "id": 3, "name": "3 Week", "status": "active" },
+    { "id": 4, "name": "4 Week", "status": "active" },
+    { "id": 5, "name": "5 Week", "status": "active" },
+    { "id": 6, "name": "6 Week", "status": "active" },
+    { "id": 7, "name": "7 Week", "status": "active" },
+    { "id": 8, "name": "8 Week", "status": "active" },
+  ],
   "fittings":[
     { "id": 0, "name": "Any"},
     { "id": 1, "name": "Fitted"},
     { "id": 2, "name": "Shell & Core"}
   ],
+  "propertyStatus":[
+    { "id": 0, "name": "Any"},
+    { "id": 1, "name": "Vacant"},
+    { "id": 2, "name": "Rented"},
+  ],
+  "purposeOfBuying":[
+    { "id": 1, "name": "Personal use"},
+    { "id": 2, "name": "Investment"},
+  ],
+  "paymentOptions":[
+    { "id": 1, "name": "Cash"},
+    { "id": 2, "name": "Finance", "bankApproved": [{"id": 1, "name":"Pre-Approved"}, {"id": 2, "name":"Not Yet"}]},
+  ],
+  "visibilityList": [
+      {
+        "name": "Draft",
+        "value": "draft",
+        "desc": "Post visible only to YOU",
+      },
+      {
+        "name": "Private",
+        "value": "private",
+        "desc": "Post Visible Exclusively to Your Company",
+      },
+      {
+        "name": "Public",
+        "value": "public",
+        "desc": "Post Visible to Area Specialists on PropWall",
+      },
+      {
+        "name": "Public & Broadcast",
+        "value": "broadcast",
+        "desc": "Post Visible on PropWall & Shared via WhatsApp to Agents in the Same Area",
+      },
+    ],
   "rentYearRangeArray": [
     20000, 30000, 40000, 50000, 60000, 80000, 100000, 120000, 140000, 160000,
     180000, 200000, 225000, 250000, 275000, 300000, 325000, 350000, 375000,
