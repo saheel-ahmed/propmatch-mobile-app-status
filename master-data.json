@@ -73,7 +73,7 @@
     { "id": 5, "name": "5 Week", "status": "active" },
     { "id": 6, "name": "6 Week", "status": "active" },
     { "id": 7, "name": "7 Week", "status": "active" },
-    { "id": 8, "name": "8 Week", "status": "active" },
+    { "id": 8, "name": "8 Week", "status": "active" }
   ],
   "fittings":[
     { "id": 0, "name": "Any"},
