@@ -1,6 +1,6 @@
 {
-"iOS": "3.00.00",
-"android": "3.00.03",
+"iOS": "3.00.05",
+"android": "3.00.05",
 "update": {
   "msg": "A new version of the app is available with an improved experience. Please update to continue using the latest features.",
   "title": "Important app update",
