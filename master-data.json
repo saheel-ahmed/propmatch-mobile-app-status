@@ -57,6 +57,7 @@
     { "id": 3, "name": "Unfurnished", "status": "active", "icon": "ic-unfurnished-" }
   ],
   "bathroom": [
+    { "id": 0, "name": "0", "status": "active" },
     { "id": 1, "name": "1", "status": "active" },
     { "id": 2, "name": "2", "status": "active" },
     { "id": 3, "name": "3", "status": "active" },
